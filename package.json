@@ -20,5 +20,13 @@
         "ts-loader": "^9.5.1",
         "typescript": "^5.5.2",
         "vite": "^5.0"
+    },
+    "dependencies": {
+        "@designcise/next-theme-toggle": "^4.0.0",
+        "@types/node": "^20.14.12",
+        "@types/react": "^18.3.3",
+        "@types/react-dom": "^18.3.0",
+        "@witejs/plugin-react": "^4.0.4",
+        "alpinejs": "^3.14.1"
     }
 }
